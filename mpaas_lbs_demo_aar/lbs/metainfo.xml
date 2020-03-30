@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metainfo>
+    <application>
+        <className>com.mpaas.demo.lbs.LbsMicroApp</className>
+        <appId>33330004</appId>
+    </application>
+</metainfo>

@@ -1,0 +1,2 @@
+include ':lbs-build'
+project(':lbs-build').projectDir = new File('lbs')
